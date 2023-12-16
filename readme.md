@@ -19,6 +19,8 @@
  paddle then the score page will be displayed.
 
  ## Tech Stack : HTML and CSS and JavaScript.
+ 
+ ### Inspired from: Kenny Yip Coding game idea
 
  # Output:
 
